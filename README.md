@@ -25,6 +25,6 @@ To utilize this demonstration, please follow the steps below:
     kubectl apply -f ./createService.yaml
     ```
 4. **Finally**, test the following websites to check the execution of both two services
-    http://localhost:3043/exponentiation?n1=10&n2=6 <br>
-    http://localhost:3044/exponentiation?n1=10&n2=6
+    http://localhost:8037/exponentiation?n1=10&n2=6 <br>
+    http://localhost:8037/exponentiation?n1=10&n2=6
 
